@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ContactBook</string>
+    <string name="activity_main_fab">FAB</string>
+    <string name="phone_hint_text">Telefone</string>
+    <string name="email_hint_text">Email</string>
+    <string name="name_hint_text">Nome</string>
+    <string name="activity_new_contact_form_confirm_button">Salvar</string>
 </resources>
